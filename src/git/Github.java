@@ -4,7 +4,7 @@ public class Github {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+// checking for new updates
 		try {
 			
 			int a = 0 ;
